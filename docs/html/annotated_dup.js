@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "animation_t", "structanimation__t.html", null ],
+    [ "bind_t", "structbind__t.html", null ],
+    [ "button", "structbutton.html", null ],
+    [ "entity_t", "structentity__t.html", null ],
+    [ "flags", "structflags.html", null ],
+    [ "formating", "structformating.html", null ],
+    [ "game_info_t", "structgame__info__t.html", null ],
+    [ "info_param", "structinfo__param.html", null ],
+    [ "item_s", "structitem__s.html", null ],
+    [ "keys_t", "structkeys__t.html", null ],
+    [ "linked_list", "structlinked__list.html", null ],
+    [ "map_s", "structmap__s.html", null ],
+    [ "mob_s", "structmob__s.html", null ],
+    [ "nodes", "structnodes.html", null ],
+    [ "npc_s", "structnpc__s.html", null ],
+    [ "object_s", "structobject__s.html", null ],
+    [ "path_info_s", "structpath__info__s.html", null ],
+    [ "path_s", "structpath__s.html", null ],
+    [ "player_s", "structplayer__s.html", null ],
+    [ "rect_s", "structrect__s.html", null ],
+    [ "thread_info", "structthread__info.html", null ],
+    [ "user", "structuser.html", null ],
+    [ "variables", "structvariables.html", null ],
+    [ "window_info_t", "structwindow__info__t.html", null ]
+];
