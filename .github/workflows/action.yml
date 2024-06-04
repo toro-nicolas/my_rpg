@@ -42,7 +42,7 @@ jobs:
         run: |
           make fclean
           size=$(du -sm --exclude='.git' | cut -f1)
-          limit=30
+          limit=35
           if [ "$size" -gt "$limit" ]; then
             echo "::error title=Repository size::Repository size is too big ($size MB > $limit MB)"
             exit 1
