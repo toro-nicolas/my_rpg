@@ -201,7 +201,7 @@ Difficultés techniques intéressantes mais montrez !
 
 ### Tests and code coverage
 **Unit tests** were performed using [criterion](https://criterion.readthedocs.io/en/master/intro.html).  
-In this project, **only** the **library code is covered**.
+In this project, **only** the **library code is covered**.  
 Unit tests are still to be performed, but a large part of the code is already covered:
 - Lines: 90.0%
 - Functions: 100%
